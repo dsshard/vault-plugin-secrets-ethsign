@@ -4,3 +4,4 @@ coverage.txt
 ethsign
 # binary from "go build"
 vault-plugin-secrets-ethsign
+.idea
