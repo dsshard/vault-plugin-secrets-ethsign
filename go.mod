@@ -1,4 +1,4 @@
-module github.com/kaleido-io/vault-plugin-secrets-ethsign
+module github.com/dsshard/vault-plugin-secrets-ethsign
 
 go 1.23.0
 
